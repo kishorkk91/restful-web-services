@@ -1,0 +1,21 @@
+To access the Swagger Documentation for nice Visual representation
+
+localhost:8080/v2/api-docs
+localhost:8080/swagger-ui.html
+
+H2 in memory data base
+localhost:8080/h2-console
+
+
+
+Best practices of RESTful web services
+
+consumer first, they should understand resources(Web-services)
+best documentation
+best use of Methods(GET, POST) and appropriate Status(201 CREATED instead of 200) to return
+
+
+Microservice Architecture
+Independent of technology and communicate with each other
+Dynamic scaling
+Faster release cycle
