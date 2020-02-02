@@ -51,6 +51,13 @@
              <artifactId>spring-boot-starter-security</artifactId>
          </dependency> -->
 
+        <!--  Spring Boot Automatic Restart using Developer Tools with Maven   -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-devtools</artifactId>
+            <optional>true</optional>
+        </dependency>
+
          <dependency>
              <groupId>org.springframework.boot</groupId>
              <artifactId>spring-boot-devtools</artifactId>
