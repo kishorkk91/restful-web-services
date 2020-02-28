@@ -5,7 +5,6 @@ insert into user values(3,sysdate(),'Abhishek');
 insert into post values(101,'My first post', 1);
 insert into post values(202,'My second post', 2);
 
-/*//data to test POST method JPA*/
 /*
 insert into user values(101,sysdate(),'Saket');
 insert into user values(102,sysdate(),'Anand');
